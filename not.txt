@@ -1,1 +1,4 @@
 git clone komutu githubda var olan repoyu locale indirmek için kullanılır.
+
+
+Remote repoda değişiklik.
